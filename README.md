@@ -17,7 +17,8 @@ From the data analysis, I would like yo ask this main question:
 a. Location
 We can see that North London (Islington and Hampstead Heath) has the most number of restaurants in the dataset, followed by individual locations in Central London. 
 
-![alt text](https://github.com/kelvinloh97/london-restaurant/blob/restaurant_location_count.png?raw=true)
+![restaurant_location_count](https://user-images.githubusercontent.com/32938429/210211964-f6c6a8b9-01e2-425e-8636-bd8e52d4edf6.PNG)
+
 
 In terms of cuisine, London's No.1 goes to Indian with Italian coming in second. 
 
